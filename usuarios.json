@@ -1,0 +1,7 @@
+{
+	"Usuarios":[
+		{"id":"1","nombre":"Segio","telefono":"24584584","email":"Sergio@gmail.com"},
+		{"id":"2","nombre":"LUcia","telefono":"25464584","email":"Lucia.Cater@email.com"},
+		{"id":"3","nombre":"Stephanie","telefono":"25465892","email":"Stephanie@lalabor.com}
+	]
+}
